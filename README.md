@@ -1,2 +1,2 @@
 # Data_science_project
-Restaurant Rating Analysis &amp; ML Project
+Restaurant Rating Analysis and predictive modeling Project.
